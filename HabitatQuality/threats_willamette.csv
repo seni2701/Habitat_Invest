@@ -1,0 +1,8 @@
+MAX_DIST,WEIGHT,THREAT,DECAY,DESCRIP,BASE_PATH,CUR_PATH,FUT_PATH
+8000,0.7,crops,linear,Agricultural lands,,crops_c.tif,crops_f.tif
+5000,0.6,railroad,exponential,Railroad lines,,railroad_c.tif,railroad_f.tif
+10000,1,urban,exponential,Urban/developed,,urban_c.tif,urban_f.tif
+6000,0.5,timber,exponential,Timber harvesting/Plantations,,timber_c.tif,timber_f.tif
+3000,1,roads1,linear,Primary roads,,roads1_c.tif,roads1_f.tif
+1000,0.7,roads2,linear,Secondary roads,,roads2_c.tif,roads2_f.tif
+500,0.5,roads3,exponential,Rural roads,,roads3_c.tif,roads3_f.tif

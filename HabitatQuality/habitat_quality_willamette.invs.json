@@ -1,0 +1,13 @@
+{
+    "args": {
+        "access_vector_path": "accessibility_willamette.shp", 
+        "half_saturation_constant": "0.05", 
+        "lulc_cur_path": "lulc_current_willamette.tif", 
+        "lulc_fut_path": "lulc_future_willamette.tif", 
+        "sensitivity_table_path": "sensitivity_willamette.csv", 
+        "results_suffix": "willamette", 
+        "threats_table_path": "threats_willamette.csv"
+    }, 
+    "invest_version": "3.9.0", 
+    "model_name": "natcap.invest.habitat_quality"
+}
