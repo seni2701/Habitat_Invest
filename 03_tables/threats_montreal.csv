@@ -1,0 +1,6 @@
+threat,max_dist,weight,decay,base_path,cur_path,fut_path
+autoroutes,1000,1.0,exponential,,../02_processed/threats/autoroutes.tif,
+arteres,500,0.8,exponential,,../02_processed/threats/arteres.tif,
+collectrices,300,0.6,linear,,../02_processed/threats/collectrices.tif,
+routes_locales,150,0.35,linear,,../02_processed/threats/routes_locales.tif,
+surfaces_baties,300,0.8,exponential,,../02_processed/threats/surfaces_baties.tif,
